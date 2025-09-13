@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Master",
+  "description": "An intelligent quiz maker application that generates questions using the Gemini API. Users can create quizzes on any topic, take timed exams with negative marking, and view their results on a persistent leaderboard.",
+  "requestFramePermissions": []
+}
